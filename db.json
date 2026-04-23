@@ -18,6 +18,16 @@
     "id": 4,
     "name": "Fabian",
     "role": "Amazoni"
+  },
+    {
+    "id": 5,
+    "name": "Michi",
+    "role": "Paparazi"
+  },
+  {
+    "id": 6,
+    "name": "Steffen",
+    "role": "Big Boss"
   }
 
 ]
