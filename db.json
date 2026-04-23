@@ -8,10 +8,10 @@
     "id": 2,
     "name": "Anna",
     "role": "User"
-  }
+  },
   {
     "id": 3,
     "name": "Florian",
     "role": "Admin_Boss"
-  }
+  },
 ]
