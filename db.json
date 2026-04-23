@@ -9,4 +9,9 @@
     "name": "Anna",
     "role": "User"
   }
+  {
+    "id": 3,
+    "name": "Florian",
+    "role": "Admin-Boss"
+  }
 ]
