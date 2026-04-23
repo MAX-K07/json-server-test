@@ -13,5 +13,11 @@
     "id": 3,
     "name": "Florian",
     "role": "ABoss"
+  },
+  {
+    "id": 4,
+    "name": "Fabian",
+    "role": "Amazoni"
   }
+
 ]
